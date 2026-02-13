@@ -25,6 +25,9 @@ div {
    
 }
 
-img {
+.imgRound {
     border-radius: 40px;
+}
+a{
+    color: aquamarine;
 }
