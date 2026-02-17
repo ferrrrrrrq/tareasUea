@@ -31,3 +31,12 @@ div {
 a{
     color: aquamarine;
 }
+.fotos{
+background-color: chartreuse;
+border-style:none ;
+margin: 0px;
+padding: 10px;
+display: flex;
+justify-content:right;
+
+}
