@@ -1,1 +1,5 @@
-body{background-image:url('fondeee.jpg');}
+body{
+    background-image:url('fondote.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+}
