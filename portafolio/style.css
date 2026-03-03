@@ -1,8 +1,20 @@
 body {background-color: #3762e9;
 
 color: rgb(0, 0, 0);
-font-size: 50px;
 
+
+}
+header{
+    font-size: 30px;
+    padding: 10px;
+    background-color:rgb(24, 149, 221) ;
+}
+nav{
+    background-color: rgb(230, 62, 193);
+}
+footer{
+    background-color: rgb(24, 27, 218);
+    padding: 10px;
 }
 
 h1 { 
